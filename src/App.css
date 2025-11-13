@@ -1,0 +1,17 @@
+@config "../tailwind.config.js";
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-Nunito: "Nunito", sans-serif;
+  --font-opensans: "Open Sans", sans-serif;
+  --font-parkinsans: "Parkinsans", sans-serif;
+  --color-prime: #006401;
+  --color-sec: #09090B21;
+  --color-gray: #484338;
+  --color-brown: #a58251;
+}
