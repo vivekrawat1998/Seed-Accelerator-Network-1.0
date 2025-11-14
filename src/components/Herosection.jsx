@@ -19,8 +19,8 @@ const sections = [
     caption: "Seeds determine yield, profitability, and resilience — yet older varieties dominate.",
   },
   {
-    title: "From Research to Farmers’ Fields",
-    image: "/field 1.png",
+    title: "From Research to Farmer's field",
+    image: "/hero/Research to the farmers field.jpg",
     caption: "Testing, positioning, advocating new varieties in real farming conditions to build trust.",
   },
   {

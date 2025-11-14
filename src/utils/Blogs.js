@@ -2,207 +2,124 @@
 const blogs = [
   {
     id: 1,
-    image: "https://aesanetwork.org/wp-content/uploads/2023/09/GPN-62-2.png",
+    image: "/blogs/IRRI-team-is-one-of-those-intervened-plots-with-the-participating-farmer.jpg",
     author: "Admin",
     comments: "03 Comment",
-    title: "GOOD PRACTICES 62- Community-Based Rice Seed Entrepreneurship Model in Northern Bangladesh",
-    description: `In this good practice note, Muhammad Ashraful Habib, Swati Nayak and Subhasmita Mohapatra discuss their experiences with promoting a community-based rice seed entrepreneurship model in Northern Bangladesh. Though nurturing local women’s groups in quality seed production can empower them both socially and economically and promote varietal diversity, they underline the importance of sustaining these efforts through contributions from several other actors.`,
+    title: "Variety-based climate-smart intervention helps smallholder farmers cope with floods in the lowlands of Odisha",
+    description: `Natural calamities, primarily floods, of varying intensity adversely affect the standing crop leading to poor harvests. Such untoward climatic shocks invariably hit almost all blocks of Puri District in Odisha.  The variety-based climate-smart intervention proved to be a potential response in the flood-prone rice areas. This can be replicated and scaled up in other blocks within the district as part of contingency plans for rice-growing areas affected by floods in the state`,
     content: `
-   Food security is paramount in Bangladesh, which has a high population density (1329 people per km2) and poverty rate (18.7%). Seed is a critical input in agriculture. The timely use of quality seeds of potential varieties can increase yields by up to 25%. Currently, about 46% of the farmers in the country use quality seeds, both due to a lack of awareness of the right varieties and their potential, and their timely availability. Therefore, ensuring the supply of good quality seeds is essential, and for cereals in particular. In general, seed systems promote limited high-yielding varieties which have been gradually eroding crop diversity. Location-specific evaluation and adoption of appropriate varieties can address this concern.
+  A variety-based climate-smart intervention
+With its considerable research base in Odisha, IRRI curated a technical fix to address the impact of the climatic crisis. In association with Pragati Koraput, a non-government organization in Odisha, IRRI introduced variety-based intervention in four flood-affected villages in Nimapada in the first week of September.
 
-   COMMUNITY-BASED RICE SEED ENTREPRENEURSHIP MODEL (CBRSEM)
-Women are often an integral part of crop production, and in crops like rice, they are responsible for labor-intensive operations like transplantation and harvest. They also manage post-harvest processes like seed storage. Yet, their contribution is often unacknowledged because the activities they are engaged in don’t involve cash transactions. Since women have been involved in rice production for years, training them and developing their skills in Quality Seed Production (QSP) is one assured way of enabling women’s entrepreneurship and promoting seed security. Thus, a Community-based Rice Seed Entrepreneurship Model (CBRSEM) promoted by the International Rice Research Institute (IRRI) was initiated in Rangpur Division of Bangladesh to capacitate women farmer groups to pool their resources and use their expertise for the creation of community-level resilient seed systems.
+The intervention included 55 affected farmers covering 25 hectares of rice areas identified using data, GIS-enabled mapping, and field observations. Two early maturing varieties, CR dhan-101 (Ankit) and CR dhan-102 (Santabhima), were chosen based on their performance in earlier varietal evaluation programs conducted by the IRRI Seed System.
 
-Building on the Strength of NGOs to Organize Women Seed Producer Groups
-Rangpur Dinajpur Rural Service (RDRS), an NGO, works with farmer communities to increase the productivity of crops and promote climate-resilient agriculture. It reaches out to women farmers and forms federations to engage them in various income-generating activities. In 2019, IRRI collaborated with RDRS and identified enthusiastic women rice producers with some knowledge of seed production. Meetings were organized to discuss the idea of women’s rice seed production groups among the federations. The goals, outcomes, and benefits of such groups were explained to the members and their feedback and concerns were considered.
-    `,
+These two varieties mature in 105-110 days, have an average yield of 4 tons/ha, and are moderately resistant to major diseases and pests. Because the maturity of these varieties fits within the short time window (September to December) for growing crops, these short-duration varieties could replace the yield of the late-maturing varieties lost to flooding.
+    
+
+Field observations and learning
+To demonstrate the variety-based intervention, IRRI held several meetings and orientations to create awareness among the participating farmers. The IRRI Team encouraged farmers to sow the varieties using the wet DSR method in areas where drainage was feasible instead of traditional transplanting. The team also issued and shared recommended nutrient management advisories for the altered field ecology.
+
+The IRRI Team closely monitored the seed sowing, nutrient management practices, and the different phases of crop growth. Several post-flood rice plots that were fallowed after the flood damage served as the ideal control plot for assessing the intervention impact.
+
+During the interaction between IRRI scientists and participating farmers, it was determined that only a few farmers could manage to acquire some seedlings from other villages to replant and harvest a moderate crop. Those who did not have that option were forced to keep their land fallow. As a result, large swathes of land were uncultivated following the flood.
+
+How the variety-based intervention could help farmers
+The farmers under the intervention, however, have a reason to smile. The early maturing varieties flourished and yielded at least 3.5 tons/ha. The good productivity of the recommended varieties could help farmers make up for the losses due to floods.
+
+Even if farmers suffer from crop damage due to flooding in September, they could still grow the recommended rice varieties and have a respectable harvest. Thus, the varieties could act as “stand-by” crops that farmers can sow, rather than fallowing, if the first late-maturing variety succumbs to floods
+
+“My land was about to lie vacant this season after the flood,” said Mr.Bijay Kumar Singh a farmer who was part of the program. “But with Ankit, I harvested a decent yield comparable to the damaged and lost yield of Swarna and CR-1009.”
+
+The recommended varieties matured in time (mid-December) enabling the field to be free for the farmers to sow the next crops—mostly summer rice, green gram, and vegetables.
+
+Other local farmers stated that these varieties could potentially alter the lives of hundreds of small and marginal farmers with limited resources.
+
+Wet-DSR was a suggested option but farmers preferred to opt to raise nurseries and transplant early, reducing the risk of losing the crop due to further flooding.`,
   },
   {
     id: 2,
-    image: "https://ricetoday.irri.org/wp-content/uploads/2023/08/Haor-Farmer-w-brrid96.jpg",
+    image: "/blogs/Crop-cut-exercise-by-farmers.jpg",
     author: "Admin",
     comments: "03 Comment",
-    title: "New rice variety creates game-changing opportunities for farmers in the Haor Basin of Bangladesh",
-    description: `The Haor Region has been experiencing early-season flash floods almost every year. The flash floods completely inundate rice fields immediately before rice harvesting causing massive losses to farmers and posing threats to the food security and livelihood of the people. BRRI dhan-96 has brought about a transformation in the lives of the Haor farmers. It not only provided them with a sustainable solution to the challenges they faced but also empowered them to escape poverty. With increased productivity, they were able to realize higher incomes, improve their standard of living, and invest in their children’s education.`,
+    title: "Farmer-led popularization and dissemination of new rice varieties in Telangana help close the seed gap",
+    description: `Even though Telangana is one of the leading rice-producing states in India, the awareness and options around new varieties among a significant number of smallholder farmers is a major challenge. Providing access to seed, particularly of newer varieties, is a difficult task because of capacity constraints in formal seed systems. Additionally, the community-led seed network is underdeveloped and underutilized by mainstream seed programs.  Farmer-led interventions are closing these loopholes, widening the varietal choices available to the farmers, and evaluating on-farm assessment to aid farmers in the selection and adoption of the potential varieties.`,
     content: `
-     The Haor Region, characterized by marshy lands that remain flooded during the monsoons, has unique advantages. The soils are rich and fertile because of the organic and mineral deposits from rivers and streams brought in by flood waters. But, compared to other regions, the Haor Basin has lagged in terms of economic development.
+   Subeejam Sukshetre Jayate Sampadyathe (Good seed in good soil yields abundantly) is mentioned in the ancient Indian scripture Manusmriti reaffirming the significance of quality seeds in rice-based agrarian economies. The importance of quality seeds of best-fit varieties is central to a sustainable food system that catalyzes farm prosperity and augments the livelihood of farmers.
 
-Given the share of area and population that live in the Haor Region, it is difficult to foresee the nation’s overall development without attaining progress in the region.  The government has undertaken many national and regional-level strategies and initiatives to steer economic growth in the area.  The challenges of climate change are also a major concern for the sustainable development of these regions.
+Even though Telangana is one of the leading rice-producing states in India, the awareness and options around new varieties among a significant number of smallholders is a major challenge, according to several stakeholder consultations.
+India’s National Seed Corporation produces seeds of several rice varieties every year, but only a few reach the farmers.  As such, farmers are compelled to explore and evaluate better varieties as replacements for their long-grown varieties on their own.
 
-<br />
-Out-of-season cropping calendar
-In these low-lying marshlands, boro (March-April) is the most important cropping season because cultivation during aman (June-July) is primarily impossible because of the long-term flooded conditions.
+MTU-7029, MTU-1010, and MTU-1001 are rice varieties that are more than two decades old but still dominate the market despite the increasing genetic erosion and susceptibility to pests and diseases. The fragile extension approach effort can be singled out as a prominent reason for poor varietal awareness leading to a low varietal turnover and underutilization of available genetic gain.
 
-Only two rice varieties, BRRI dhan-28, and BRRI dhan-29, released in 1994 (30 years old), account for over 90% of rice acreage in the area. The average growth durations of BRRI dhan-28 and BRRI dhan-29 are 140 and 160 days and these are usually harvested between mid-April and mid-May, respectively.
+Providing access to seed, particularly of newer varieties, is a difficult task because of capacity constraints in formal seed systems. Additionally, the community-led seed network is underdeveloped and underutilized by mainstream seed programs.
+The Breeding-Integrated Seed System Unit at the International Rice Research Institute (IRRI) is closing these loopholes, widening the varietal choices available to the farmers, and evaluating on-farm assessment to aid farmers in the selection and adoption of the potential varieties.
 
-However, recently, amidst several observed climatic changes, the Haor Region has been experiencing early-season flash floods almost every year, usually in the first week of April. The flash floods completely inundate rice fields immediately before rice harvesting causing massive losses to farmers and posing threats to the food security and livelihood of the people.
+In Telangana, IRRI, in collaboration with government agencies and community-based organizations, promotes on-farm trials where 5-6 new varieties are assessed against local checks and standard benchmark varieties in farmers’ fields by the farmers.
 
-A possible solution to this is to adjust the cropping calendar. Farmers can plant earlier, harvest by the end of March, and avoid early-season flash foods. This significant change in farmer practice requires suitable varietal fitment, especially access to early maturing and high-yielding varieties. However, farmers in the Haor Region lack awareness of and access to climate-resilient and high-yielding modern varieties.
-
-<br />
-Haor Region lack awareness of and access to climate-resilient and high-yielding modern varieties.
-
-In search of best-fit rice varieties
-The Seed System and Product Management Unit at the International Rice Research Institute (IRRI) Bangladesh conducts Head-to-Head Adaptive Trials (HHATs), a popular form of on-farm trials,  in collaboration with various national agriculture research and extension organizations.  These trials are planned with the broad objectives of delivering the genetic gain in rice in the farmers’ field and ensuring systematic replacement of old varieties with new ones.
-
-Several potential varieties with value-added traits have emerged from such trials driven by robust and statistically significant data on genetic gain and differential performance. The aim is to create opportunities for the farmers to see for themselves, influence the seed markets, and agriculture programs of the country to be convinced and decide on large-scale adoption and scaling of new varieties.
-
-The findings from the HHATs conducted in the Haor Region from 2019 to 2022 have revealed some potential varieties like BRRI dhan-67, BRRI dhan-88, and BRRI dhan-96. These are short-duration varieties that have very high yield potential and can replace the widely cultivated BRRI dhan-28.
-
-In the HHATs, BRRI dhan-28 had the lowest average yield for four consecutive years (5.09 tons/hectare in 2019, 5.00 t/ha in 2020, 5.15 t/ha in 2021, and 5.21 t/ha in 2022). The variety also had the highest incidence of pests.
-
-In contrast, BRRI dhan-96 performed remarkably better during the same period with average yields of 7.18 t/ha in 2019, 7.04 t/ha in 2020, 7.56 t/ha in 2021, and 7.01 t/ha in 2022.
-
-<br />
-
-A game-changing rice variety
-BRRI dhan-96 is a medium-duration high-yielding variety with good resistance against insects and diseases. It was developed by the Bangladesh Rice Research Institute (BRRI) through the hybridization of BRRI dhan28 with Oryza rufipogon, a wild variety. It was released in 2020 for cultivation in the boro season. It has an average duration of 140 days, like BRRI dhan-28.
-
-On average, the yield of BRRI dhan-96 is 7.0 t/ha and can potentially reach 8.6 t/ha in suitable environments. It is short in height which makes it better for mechanical harvesting.
-
-Most farmers in the Haor Region cultivated BRRI dhan-28 because of its desirable traits like the taste, long-term freshness, and grain shape. Because BRRI dhan-96 is similar to BRRI dhan-28 in these attributes it is the best substitute variety.
+Key performance traits of trialed varieties are analyzed scientifically to quantify the trait benefits and predicted yield. Thus, the evaluative exercise is more participatory, inclusive, realistic, and collective for setting the next course of action to promote best-fit varieties through different seed networks. This approach offers two fundamental solutions, namely, varietal awareness and selection and accelerated adoption and diffusion as well as improved seed access.
     `,
   },
   {
     id: 3,
-    image: "https://ricetoday.irri.org/wp-content/uploads/2023/08/SalineBRRIdgan97.jpg",
+    image: "/blogs/blog3.jpg",
     author: "Admin",
     comments: "03 Comment",
-    title: "The farmers who till the harsh coastal lands of Bangladesh and the salt-tolerant rice varieties that changed their story",
-    description: `Rice cultivation in the salt flats of southern Bangladesh accounts for 25%  of the country’s total cultivated land. In this coastal area, characterized by brackish waters, farming has always been a tremendous challenge due to the high salinity levels in the soil. However, a glimmer of hope emerged when the farmers of this region learned about the high-yielding salt-tolerant rice varieties developed to thrive in adverse environments, including saline soil`,
+    title: "Scaling rice-mustard system in Odisha’s rice fallows for better system productivity and economic gains",
+    description: `Odisha's 2020 agriculture policy recognizes the importance of cropping diversification in favor of oilseeds for higher and more stable farm income. The demand for oilseed products is rising with increasing per capita income, leading to higher production of oilseed crops.`,
     content: `
-Rice cultivation in the salt flats of southern Bangladesh accounts for 25%  of the country’s total cultivated land. In this coastal area, characterized by brackish waters, farming has always been a tremendous challenge due to the high salinity levels in the soil.  As farmers struggled to cultivate rice crops under these harsh conditions, their dreams of prosperity seemed to dissipate under the scorching sun.
+However, oilseeds occupy only 7% of the state's gross cropping systems
+areas, which are dominated by cereal (52%) and pulse (22%), according to a 2022-23 Economic Survey. Of the 0.6 million oilseed crop areas, 70% are planted with sesame, groundnut, and mustard.
 
-But the blighted land is just one of the many barriers they have to overcome. Their crops are also susceptible to various pests and diseases that affect their rice production and quality.
+Mustard is grown in only 17% of the total oilseeds area, with Kalahandi, Kandhamal, and Sundargarh now leading in mustard production in the state. The oil content of mustard varies from 37% to 49%. The oil is mainly for human consumption, and local traders have created a reasonable market chain to sell the produce. However, the low productivity of 436 kilograms per hectare (kg/ha) remains a concern for wider mustard production.
 
-The boro season rice crop is the most important in the coastal areas. The most grown variety, BRRI dhan-28,  accounts for over 90% of the cultivation in this region. With an average duration of  145 days, the BRRI dhan-28 rice cultivated in coastal areas during the boro season suffers from drought and high soil salinity during the flowering period almost every year.
+Odisha has an estimated 1 million ha of rice fallow that can be cultivated after the kharif rice harvest. The vast rice fallows offer tremendous opportunities to grow a medium-duration crop like mustard to optimize the cropping system and maximize farm returns.
 
-These cause massive losses for the farmers and pose threats to the food security and livelihood of the people in the region.
+However, the challenges to making rice fallows productive are multifactorial. Access to quality seeds, appropriate varieties, community mobilization, sufficient irrigation, and market triggers can expand the area and boost mustard production.
 
-Hope rises from rice
-However, a glimmer of hope emerged when the farmers of this region learned about the high-yielding salt-tolerant BRRI dhan-99, BRRI dhan-97, and BINA dhan-10. These varieties were developed to thrive in adverse environments, including saline soil.
+Embarking on the ambitious and meticulously planned Comprehensive Rice Fallow Management (CRFM) Program by the Department of Agriculture and Farmers Empowerment (DAFE) of Odisha, the International Rice Research Institute (IRRI) has been closely working with 4,197 men and women farmers in Balasore and helped manage rice fallows in 2,400 ha with mustard crop.
 
-BRRI dhan-99, released in 2020, is a long-maturing, high-yielding variety with medium bold grain. It can be harvested in 155 days and produces an average yield of 5.4 tons/hectare. In favorable environments and with proper management, this variety can yield up to 7.1 tons/ha, according to BRRI Director Shahjahan Kabir.
+About half of the area remained fallow in the dry season in 2023. The project introduced the Giriraj variety, which matures in 120-130 days and fits the cropping pattern. The variety has a good yield of about 860 kg/ha, significantly higher than the current state average.
 
-BRRI dhan-97 is a mid-maturing, high-yielding variety with medium bold grain. It can be harvested in 152 days and produces an average yield of 4.9 tons/ha hectare in areas prone to high salinity. It can also produce as much as 7.0 tons/ha in a favorable environment with proper care.
-
-These salt-tolerant varieties were breakthroughs that promised a brighter future for the people who had long struggled against the odds.
-
-The International Rice Research Institute’s (IRRI) One Rice Breeding Strategy, supported by the CGIAR initiative SeedEqual, conducted head-to-head on-farm varietal trials in collaboration with the Bangladesh Rice Research Institute.
-
-Head-to-head trials provide researchers ample scope to assess and validate varietal performances in different saline-prone ecologies to facilitate the process of selecting the most suitable variety for the region.
-
-Equally important, the trials provide farmers with firsthand experience comparing the new varieties’ performance against other varieties in saline soil conditions. Including farmers in varietal selection plays a critical role in popularizing promising varieties within their community. Their participation also helps researchers implement farmer-driven varietal development.
-
+Many participating farmers saw Giriraj as an additional crop to enhance their farm revenue. One such farmer is Sasmita Puhan, in the Simulaia block of Balasore District. She has yet to see a post-kharif crop grown on her land, where cattle grazing is common after harvesting kharif rice.
 
     `,
   },
   {
     id: 4,
-    image: "https://ricetoday.irri.org/wp-content/uploads/2025/10/image-9.png",
+    image: "/blogs/blog4.jpg",
     author: "Admin",
     comments: "03 Comment",
-    title: "Rice variety preferences in Bangladesh: What is the role of public breeders?",
-    description: `It has been suggested that public breeders should put more emphasis on the integration of public good aspects into their work as compared to private enterprises, so that varietal resistances, for example, should be more important traits than yield. However, this has remained a normative framework so far. It is unclear to what extent the objectives of public breeders really differ from private enterprises’ breeding objectives.`,
+    title: "The inroads of direct-seeded rice with the low-input responsive PR-126 variety (A case study from Odisha’s smallholder ecosystem)",
+    description: `Rice is a crucial staple food for over 95% of Odisha’s population. This principal cereal bears immense significance culturally and economically. Bargarh District is known for its vast rice acreage and productivity.`,
     content: `
-Most crops being grown on the world’s arable land have been bred by private enterprises. However, there are exceptions to this rule. For some crops, in particular perennial ones, the time lag between starting breeding and making a profit is too long to be attractive, so public breeders jump in.
+Rice is grown in about 235,000 (6.5% of total rice area) hectares every year. Compared to neighboring districts, irrigation is better in Bargarh and farmers tend to grow rice using traditional cultivation. This involves transplanting rice seedlings into puddled soil which requires intensive labor, water resources, and energy. However, changing climate and water scarcity in the rainfed areas and huge water in the lowland areas of Odisha have prompted farmers to consider alternative planting methods such as the dry direct-seeded rice (DSR) production system. The fear of lower yield, high weed infestation, and machine unavailability often deter farmers from adopting DSR. Moreover, shifting to DSR confronts several behavioral barriers.
 
-Another exception is rice in Southeast Asia. Both international actors like International Rice Research Institute (IRRI) and national research organizations are active in providing a major share of rice species used for production.
-
-It has been suggested that public breeders should put more emphasis on the integration of public good aspects into their work as compared to private enterprises, so that varietal resistances, for example, should be more important traits than yield. However, this has remained a normative framework so far. It is unclear to what extent the objectives of public breeders really differ from private enterprises’ breeding objectives.
-
-Different actors in the food value chain have different demands on the attributes of a variety. In the case of rice, for example, rice that grows well as is resistant to a large scale of diseases and insects is not necessarily well suited for milling. In the case of privately bred varieties, it can be assumed that the “invisible hand of the market” will lead to varieties being adapted to the needs of both farmers and millers. But does this also apply to the work of public breeders?
-
-To shed light on these questions, this paper uses the case of the rice chain in Bangladesh. The structure of this chain, with particular respect to breeders, is sketched in Section 2. Rice production is influenced by the preferences of both producers and consumers, explicitly including the role of intermediates, in particular millers whose role in securing the supply in the rice chain increasingly gets attention.
-
-Rice is produced in Bangladesh mainly in three seasons: aus, aman, and boro. In Bangladesh, aus is the pre-monsoon season of rice cultivation and aman is the wet season. Aman is transplanted with shorter-duration varieties in shallow flooding depths and directly seeded as an upland crop from March to May in deep flooding depths.
-
-The plant then grows in floodwater from June to September and is harvested after the floodwater recedes from November to December. Boro rice is a dry-season irrigated rice. Boro was traditionally produced on very low-lying land (unsuitable for cultivating any crop during the monsoon season), transplanted in November following the receding flood water, and harvested in April– May.
-
-Public breeders are very active to deliver new varieties to the market. They comprise two sorts of actors: IRRI is part of the UN-financed CGIAR institutes and is most active in the release of rice varieties. On the national level, both the Bangladesh Rice Research Institute (BRRI) and the Bangladesh Institute for Nuclear Agriculture (BINA)  are also active to breed, mainly using inputs from the IRRI.
-
-A new variety is often released to replace an old variety that has become susceptible to insects and diseases. It does not necessarily have to be a higher-yielding one. Many factors influence a farmer’s choice of rice variety. In addition to yield, farm size, tenure status, and education, access to extension services and credit facilities have a major influence on the varietal preference of farmers.
-
-Rice variety preferences are primarily influenced by factors such as yield, market value, pest resistance, adaptability to various types of soil, aromatic features, fertilizer use, etc. Also, farmers’ choices of rice varieties depend on the grain quality preferences of consumers and other actors in the rice value chain such as millers, traders, wholesalers, and retailers.
-
-In the 2017–18 boro (dry season), IRRI distributed tons of improved seeds of stress-tolerant rice varieties in Bangladesh and observed a prominent impact on farm income, food security,and livelihoods of rice farmers.
-
-A high level of farmers’ perception was identified for rice straw utilization which also led to a positive effect on agriculture and the surrounding environment. In addition, rice varietal traits such as high yield, disease resistance, drought tolerance, good cooking and eating grain quality, aroma, earliness to maturity, and high market value were preferred by farmers. So, different factors have considerable effects on farmers’ perceptions of rice varieties.
-
-Far less conclusive evidence exists on the preferences of rice millers. Millers’ preferences for procurement of rice varieties were assessed in Tamil Nadu and reported that ‘fineness’ and ‘high milling return’ were the major deciding parameters for procurement by rice millers.
-
-Rice millers prefer varieties with high milling and head rice out-turn, whereas consumers consider physicochemical qualities. Paddy needs to be processed after harvesting for consumption. Before milling rice, all the processes including cleaning, parboiling, soaking, steaming, and drying of paddy are needed.
-
-These processes have important implications for the nutrient content of milled rice. When it comes to ‘excellent rice quality’, 39% of millers consider it should be clean, 35% feel it should not be broken, and 26% think it should have slender grain. 79% of millers polish rice once to ensure good quality, which is the minimum requirement to make rice eatable. However, 21% of millers polish rice more than once to make the grains whiter and thinner.
-
-Bangladesh’s per capita income has improved rapidly in recent decades. As a result of rising income levels, more people are now interested in processed rice since it looks glossy, takes less time to cook, is free of stones and dead rice, and has a longer shelf life.
-
-To meet the demand of the people, new automatic rice mills are being set up at a mounting rate. Thus, rice millers need to take significant steps to keep up with the consumers’ demand. While the channels of communication between IRRI and farmers are well established  IRRI and other public breeders may be less attached to the needs of millers.
-
-To understand the millers’ and farmers’ overall lifestyles and the reasons behind their preference for different rice varieties, a survey of rice growers and millers was carried out. The objective of the study was to identify and compare the salient features of various rice varieties preferred by the millers and farmers. With regard to the research questions formulated above, the following three hypotheses are formulated:
-
-H1: Bangladeshi farmers prioritizing public good attributes like disease resistance will rather prefer publicly bred varieties, whereas
-H2: Bangladeshi farmers prioritizing market value will rather prefer privately bred varieties.
-H3: Millers, as compared to farmers, will rather prefer privately bred varieties.
-
-Millers and farmers from all around Bangladesh liked to cultivate the mega varieties viz., BRRI dhan28 and BRRI dhan29 for the dry season (Boro). In northeast Bangladesh farmers’ mostly preferred BINA dhan11 and BINA dhan17, while in addition to these varieties, millers also preferred private breeds viz., Pazam and Tulshimala as aman rice varieties.
-
-In the northwest, BRRI dhan49 and Sharna 5 were preferred by millers, and BRRI dhan51 was a favorite among Farmers, whereas in the central region, BINA-invented varieties such as; BINA dhan11 and BINA dhan17 were popular among both millers and framers.
-
-Moreover, in coastal areas, BRRI dhan49 and BRRI dhan51 were the priority for millers, while farmers’ favorite aman varieties were BRRI dhan51 and BRRI dhan52. However, farmers prefer rice varieties with ‘higher yield,’ ‘higher market value,’ and ‘shorter crop duration,’ while millers consider ‘size and shape of the rice grain,’ ‘market demand’ and ‘milling performance’.
-
-The study found that farmers and millers had varied preferences in rice varieties, mostly because public research stations are targeting their efforts towards the need of farmers rather than millers.
-
-This is not only something that researchers have to bear in mind throughout the genesis, development, and expansion of new rice varieties. It is also something that should remind public breeders to be more strongly linked to the needs of the entire chain rather than to farmers.
-
-Therefore, the conventional, less robust rice types need to be replaced with new, potentially superior rice strains. Farmers and millers should have access to different types of rice with desirable characteristics.
-
-Our theoretical consideration that public breeders would be more oriented toward public goods like resistance, whereas private breeders would focus on private amenities like market value could only partly be confirmed.
+The International Rice Research Institute (IRRI), a long-standing partner in the region, has been actively demonstrating improved rice technologies and scaling their adoption. Recognizing the multifaceted constraints associated with DSR, IRRI deployed a comprehensive package of DSR that includes variety, machines, and best practices for weed management. This support is aimed at overcoming the significant challenge that often hinder farmers from opting for DSR—a suitable and competitive variety.
     `,
   },
   {
     id: 5,
-    image: "https://ricetoday.irri.org/wp-content/uploads/2025/10/Challenges-low-carbon-rice-Bangladesh-01-1-1536x1024.jpg  ",
+    image: "/blogs/blogs5.jpg ",
     author: "Admin",
     comments: "03 Comment",
-    title: "Effects of irrigation regimes and rice varieties on methane emissions and yield of dry-season rice in Bangladesh",
-    description: `The role of rice in global food security is unavoidable as it is one of the three most essential food crops globally, after wheat and maize. In Bangladesh, the area under rice cultivation, particularly boro rice, must be extended to meet the increasing food demand, which may cause significant CH4 emissions and ultimately accelerate the effects of global warming.  Most previous studies have been conducted to quantify the effects of fertilizer and water regimes on GHG emissions from rice fields. However, the impacts of different rice cultivars under various water regimes on CH4 emissions, rice yields, and yield-contributing characteristics are poorly documented.`,
+    title: "Promoting sustainable agriculture and empowering small-scale farmers through quality seeds and training",
+    description: `Uttar Pradesh, the most populous state in India, heavily relies on rice as a staple food, making rice farming a crucial economic activity for millions of farmers. However, rice production in the state is not very productive and profitable. The main hindrances among the diverse rice-growing environments in the state include the slow introduction of new rice varieties and a fragile system for providing quality seeds of high-yielding and climate-resilient rice varieties.`,
     content: `
-Rice is the staple food crop in Bangladesh and is cultivated in 11.4 million hectares (ha) across three crop-growing seasons per year. Of the three seasons, boro (dry season, December/January to March/April) results in an area under rice crop (irrigated rice) production of 4.8 million hectares.
+Uttar Pradesh, the most populous state in India, heavily relies on rice as a staple food, making rice farming a crucial economic activity for millions of farmers. However, rice production in the state is not very productive and profitable. The reasons behind this issue are varied and complicated.
 
-The total rice production in Bangladesh was 36.6 million tons (t) in 2019/20, and Boro rice contributed the majority of the total production. Although rice plays a critical role in food security, it is associated with environmental pollution due to the emissions of greenhouse gases (GHGs), particularly methane (CH4).
+The main hindrances among the diverse rice-growing environments in Uttar Pradesh include the slow introduction of new rice varieties and a fragile system for providing quality seeds of high-yielding and climate-resilient rice varieties.
 
-Irrigated rice cultivation emits CH4, one of the main GHGs responsible for global warming and climate change. Lowland rice cultivation with continuous irrigation makes the soil environment anoxic, which favors the bacterial decomposition of organic materials through methanogenesis and produces CH4 gas. It is reported that rice cultivation accounts for 1.5% of all anthropogenic GHG emissions worldwide.
+Despite numerous new rice varieties, farmers cultivate predominantly older ones like Swarna, Samba Mahsuri (BPT-5204), and Sarju-52.
 
-CH4 emissions are influenced by various soil; climatic; and crop management factors, including irrigation systems, crop variety, and fertilizer management. Continuous flooding (CF) irrigation, a common practice for lowland rice cultivation, produces a significant amount of CH4 and a limited amount of nitrous oxide (N2O).
+According to the 2020 Production Oriented Survey by the Indian Council of Agricultural Research (ICAR), Swarna and Samba Mahsuri cover 31% and 25% of the rice cultivation areas, respectively. Both varieties have been around for almost 40 years,
 
-CF irrigation lowers the redox potential (−150 mV), which enhances methanogenesis and results in the increased production of CH4. The CH4 produced in the soils is emitted to the atmosphere through three different pathways—ebullition, diffusion, and plant-mediated transport. The rice plant plays an important role, as more than 90% of CH4 is emitted from waterlogged soil to the atmosphere via aerenchyma cells.
+The ICAR survey also showed that about 45% of the seed requirements of rice farmers were met through seeds saved from their farms. This percentage is even higher for small and marginal farmers. The overall seed replacement ratio for the state stands at approximately 43% for rice and only 38% for small-scale farmers. The slow pace at which new rice varieties are adopted in the state significantly affects productivity and profitability.
 
-In Bangladesh, boro rice cultivation consumes higher amounts of irrigation water, which is supplied through the extraction of groundwater. Because of continued extraction, the groundwater table has shown a declining trend and this has increased the irrigation costs for farmers. Therefore, the significance of water-saving irrigation methods, such as alternate wetting and drying (AWD), is increasing because they can reduce water use by up to 38% without reducing yield compared with farmers’ conventional irrigation method, i.e., CF.
+Ensuring farmers have better access to high-quality seeds has always been a central focus of Seed System Initiatives at the International Rice Research Institute (IRRI). IRRI continually explores various seed system models to benefit small community organizations led by farmers.
 
-Previous studies have reported that adopting AWD irrigation could reduce GHG emissions by up to 40% without any yield penalty. AWD irrigation reduces the total GHG emissions from rice fields, mostly because of decreased CH4 emissions, despite the fact that it may marginally increase N2O emissions. As a result, the most efficient strategy to reduce the global warming potential (GWP) of rice soil is to reduce the emission of CH4.
+In recent years, particular emphasis has been placed on community-led seed networks, especially those managed by women’s organizations.
 
-However, the impacts of AWD on rice yield are still contradictory and inconclusive. More studies are needed across different soil types and different agroecological zones, rice-growing seasons, and crop management practices, including different varieties, to develop a comprehensive picture of the effects of water-saving irrigation on rice yield and GHG emissions.
-
-In addition to irrigation regimes, rice variety could affect emissions. Previous studies have shown a considerable difference in emissions among the different rice cultivars. The differences in emission rates are associated with the amount of root exudates, decaying of root tissues and leaf litter, accumulation of photosynthate in grain and straw, and crop growth duration.
-
-There is also the potential option to reduce CH4 emissions through rice breeding, i.e., developing new varieties with a high-yielding capacity.
-
-In Bangladesh, the area under rice cultivation, particularly boro rice, must be extended to meet the increasing food demand, which may cause significant CH4 emissions and ultimately accelerate the effects of global warming.
-
-The role of rice in global food security is unavoidable as it is one of the three most essential food crops globally, after wheat and maize. Most previous studies have been conducted to quantify the effects of fertilizer and water regimes on GHG emissions from rice fields. However, the impacts of different rice cultivars under various water regimes on CH4 emissions, rice yields, and yield-contributing characteristics are poorly documented.
-
-Therefore, the present investigation was conducted to determine the interaction effects of the rice variety and irrigation regime (AWD vs. CF) on rice yield and CH4 emissions during the boro season.
-
-This study suggests that rice variety plays a vital role in mitigating CH4 emissions. However, there could be some yield penalty with this reduction.
-
-The lowest CH4 emission was found in BINA dhan-17, but the rice yield was about 15% lower compared with BRRI dhan-69. These results indicate that the carbon credit calculation should also consider crop yield, as it is important for achieving food security, particularly in developing countries.
-
-In this case, yield-scaled emissions are more important than area-scaled emissions. We suggest further studies be conducted in different agroclimatic zones of Bangladesh to confirm these findings.
-
-Regardless of the varietal role, AWD irrigation has the potential to reduce cumulative CH4 emissions compared with CF irrigation, without any yield loss.
-
-Therefore, climate-smart variety selection in combination with environmentally friendly irrigation management is effective at mitigating GHG emissions in lowland rice cultivation.
+In India, public enterprises such as state and national seed corporations primarily produce and distribute seeds, particularly for inbred rice varieties. However, these agencies face various limitations in their capacity to supply quality seeds to the vast number of farmers.
     `,
   },
 ];
