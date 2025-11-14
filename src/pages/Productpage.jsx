@@ -10,6 +10,7 @@ import ProfileSection from '../components/Profilesection'
 import ProductProfiles from '../components/Productevaluation/ProductProfiles'
 import SegmentationProcessSection from '../components/Productevaluation/Segmentprocess'
 import productImage from '/Product evaluation tab.jpg';
+import { Link } from 'react-router-dom'
 
 const Productpage = () => {
     return (
@@ -39,12 +40,11 @@ const Productpage = () => {
                     <p className="mb-6 font-Nunito">
                         SAN welcomes voluntary participation from seed corporations, research organizations, farmer producer companies, NGOs, and private sector innovators. Together, let’s accelerate progress and turn advancements in plant breeding into real benefits for communities across South Asia.
                     </p>
-                    <a
-                        href="/contact"
+                     <Link to="contact"
                         className="inline-block bg-green-700 hover:bg-green-800 text-white font-bold py-3 px-8 rounded-full shadow-lg transition"
                     >
                         Contact us
-                    </a>
+                    </Link>
                 </div>
             </section>
         </div>
