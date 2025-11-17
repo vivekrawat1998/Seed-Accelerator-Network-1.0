@@ -21,12 +21,12 @@ const sections = [
   },
   {
     title: "From Research to Farmer's field",
-    image: "/hero/Research to the farmers field.jpg",
+    image: "/hero/Research for the farmers field.JPG",
     caption: "Testing, positioning, advocating new varieties in real farming conditions to build trust.",
   },
   {
     title: "Challenges for Seed Accelerators",
-    image: "/hero/Challenges for seed accelerator.jpg",
+    image: "/hero/Challenge for seed acceleration.JPG",
     caption: "Seed accelerators struggle to access timely information and basic seeds of new varieties.",
   },
   {

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 import ProfileSection from "../components/Profilesection";
-import profileBg from '/contact us.jpg';
+import profileBg from '/Contact us.jpg';
 
 export default function ContactPage() {
   const [phone, setPhone] = useState('');

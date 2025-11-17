@@ -10,7 +10,7 @@ const ProfileSection = ({ bgImage, name, breadcrumbs }) => {
                 backgroundPosition: 'center',
             }}
         >
-            <div className="absolute inset-0 bg-black/60  z-0" />
+            <div className="absolute inset-0 bg-black/30 z-0" />
             <div className="relative z-10 flex   flex-col items-center">
                 <h1 className="text-white text-4xl md:text-5xl font-extrabold mb-8 text-center">
                     {name}

@@ -9,7 +9,7 @@ import StatisticalAnalysisSection from '../components/Productevaluation/Staticsa
 import ProfileSection from '../components/Profilesection'
 import ProductProfiles from '../components/Productevaluation/ProductProfiles'
 import SegmentationProcessSection from '../components/Productevaluation/Segmentprocess'
-import productImage from '/Product evaluation tab.jpg';
+import productImage from '/Product evaluation.jpg';
 import { Link } from 'react-router-dom'
 
 const Productpage = () => {
