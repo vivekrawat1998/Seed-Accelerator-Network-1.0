@@ -2,7 +2,8 @@ import React, { useEffect, useRef } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/autoplay";
-import { Autoplay } from "swiper/modules";
+import "swiper/css/effect-fade"; // Import fade effect CSS
+import { Autoplay, EffectFade } from "swiper/modules"; // Import EffectFade module
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { Link } from "react-router-dom";
@@ -57,9 +58,10 @@ const HeroSection = () => {
       {/* Carousel Images & Section Text */}
       <Swiper
         onSwiper={(swiper) => (swiperRef.current = swiper)}
-        modules={[Autoplay]}
+        modules={[Autoplay, EffectFade]} // Add EffectFade module
         autoplay={{ delay: 2600, disableOnInteraction: false }}
         loop
+        effect="fade" // Set effect to fade
         className="absolute inset-0 w-full h-full"
       >
         {sections.map((section, idx) => (
@@ -127,7 +129,8 @@ const HeroSection = () => {
           </button>
         </div>
         <div className="flex gap-3 flex-wrap justify-center mt-6 pointer-events-auto">
-          <Link to="/ourwork"
+          <Link
+            to="/ourwork"
             className="bg-green-700 text-white font-semibold px-6 py-3 rounded-xl shadow hover:bg-yellow-700 transition"
           >
             Explore Now

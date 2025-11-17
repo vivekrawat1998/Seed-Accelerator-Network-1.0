@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { Link } from "react-router-dom";
 
 // Dummy media image URLs, replace with your files
 const mainImg = "/SAM_3.JPG";
@@ -44,9 +45,9 @@ const AboutSection = () => {
           SAN was initiated in recognition of persistent challenges in varietal turnover, seed replacement, and dissemination of newly released and primarily public-bred varieties, which often fail to reach their ultimate potential—and farmers—in a timely and effective manner.
         </p>
         <div className="flex flex-row items-center mt-4 gap-6">
-          <a href="/about" className="bg-green-700 text-white font-semibold px-4 py-3 md:px-7  md:py-3 rounded-lg shadow hover:bg-green-800 transition">
+          <Link to="/about" className="bg-green-700 text-white font-semibold px-4 py-3 md:px-7  md:py-3 rounded-lg shadow hover:bg-green-800 transition">
             Discover More
-          </a>
+          </Link>
         </div>
       </div>
     </section>
