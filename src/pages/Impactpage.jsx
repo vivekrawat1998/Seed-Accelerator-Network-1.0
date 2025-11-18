@@ -1,7 +1,7 @@
 import React from 'react'
+import profileBg from '/hero/impact.JPG'
 import SeedScalingImpact from '../components/impact stoies/SeedScalingImpact'
 import ProfileSection from '../components/Profilesection'
-import profileBg from '/impact.JPG'
 import VarietiesScalingSnapshot from '../components/impact stoies/Snapshot'
 import VarietalTurnoverImpact from '../components/impact stoies/TurnOver'
 import EconomicValueSection from '../components/impact stoies/Empactvalue'
