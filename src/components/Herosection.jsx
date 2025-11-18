@@ -58,10 +58,9 @@ const HeroSection = () => {
       {/* Carousel Images & Section Text */}
       <Swiper
         onSwiper={(swiper) => (swiperRef.current = swiper)}
-        modules={[Autoplay, EffectFade]} // Add EffectFade module
+        modules={[Autoplay]} // Add EffectFade module
         autoplay={{ delay: 2600, disableOnInteraction: false }}
         loop
-        effect="fade" // Set effect to fade
         className="absolute inset-0 w-full h-full"
       >
         {sections.map((section, idx) => (
