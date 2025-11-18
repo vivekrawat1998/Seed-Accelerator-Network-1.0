@@ -19,7 +19,6 @@ const Impactpage = () => {
             <VarietiesScalingSnapshot />
             <VarietalTurnoverImpact />
             <EconomicValueSection />
-            {/* CTA Section */}
             <div className="text-center mt-24 mb-10 max-w-xl mx-auto" data-aos="zoom-in" data-aos-offset="50">
                 <h3 className="text-3xl font-parkinsans font-extrabold text-green-900 mb-6 drop-shadow-sm">
                     Become a Member
