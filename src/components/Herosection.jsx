@@ -74,7 +74,7 @@ const HeroSection = () => {
                 {...(idx === 0 ? { fetchpriority: "high", loading: "eager" } : {})}
               />
               {/* Enhanced Gradient Overlay with Blur */}
-              <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/20 to-black/70 " />
+              <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/20 to-black/20 " />
               <div className="absolute inset-0 flex flex-col items-center justify-center px-4 md:px-0">
                 <div className="w-full flex flex-col items-center justify-center">
                   <h2 className="text-3xl font-Nunito md:text-5xl font-extrabold text-white mb-2 text-center  tracking-wide font-parkinsans">
