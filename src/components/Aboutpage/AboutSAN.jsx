@@ -8,6 +8,7 @@ import TeamImg from '/IMG-20210201-WA0055.jpg';
 import TeamImg1 from '/DSC_0048.JPG';
 import TeamImg2 from '/DSR 2.jpg';
 import TeamImg3 from '/DSR 3.png';
+import { Link } from 'react-router-dom';
 
 const objectives = [
   "Create a network of all seed scaling and accelerator agencies—public, private, and farmer collectives.",
@@ -73,7 +74,7 @@ const AboutSAN = () => {
             data-aos-delay="200"
           >
             <h2 className="text-2xl md:text-3xl font-semibold font-parkinsans mb-4 text-green-700">
-              Core Purpose  
+              Core Purpose
             </h2>
             <p className="mb-6">
               Despite many improved rice varieties being released annually, complex bottlenecks mean few reach farmers at scale. SAN exists to unite diverse stakeholders, foster smart partnerships, and use data-driven approaches to strengthen seed delivery, adoption, and positive impacts for farming communities.
@@ -148,12 +149,11 @@ const AboutSAN = () => {
           <p className="mb-6 font-Nunito">
             SAN welcomes voluntary participation from seed corporations, research organizations, farmer producer companies, NGOs, and private sector innovators. Together, let’s accelerate progress and turn advancements in plant breeding into real benefits for communities across South Asia.
           </p>
-          <a
-            href="/contact"
+          <Link to="/contact"
             className="inline-block bg-green-700 hover:bg-green-800 text-white font-bold py-3 px-8 rounded-full shadow-lg transition"
           >
             Contact us
-          </a>
+          </Link>
         </div>
       </section>
 
